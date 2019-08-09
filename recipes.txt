@@ -4,7 +4,8 @@ welcome to demos Kitchen
 
 kheer
 pizzas
-chicken
+chicken fry
+
 
 
 thank you :)
