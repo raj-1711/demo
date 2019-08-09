@@ -7,8 +7,14 @@ pizzas
 chicken fry
 
 
+pizzas 
+paneer
+
 
 thank you :)
+
+
+done my changes
 
 
 final recipe
